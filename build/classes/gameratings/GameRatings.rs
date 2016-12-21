@@ -1,0 +1,3 @@
+Game_Ratings$reducer
+Game_Ratings
+Game_Ratings$mapper
